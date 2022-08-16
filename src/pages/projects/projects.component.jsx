@@ -5,14 +5,14 @@ function ProjectPage(){
     return(
       <>
        <div style={{textAlign:"center" , marginBottom:"35px"}} >
-           <h1><p className="title1"><span style={{color:"red"}} >PROJECTS</span></p></h1>
+           <h1><p className="title1"><span style={{color:"red"}} ><b>PROJECTS</b></span></p></h1>
         </div>
 
      {/* project 1 */}
 
         <div style={{textAlign:"center"}}>
         
-          <h1 style={{background:"yellow"}}><p className="title2 project1"><span style={{color:"blue"}}>Group Messaging App </span> </p></h1>
+          <h1 style={{background:"pink"}}><p className="title2 project1"><span style={{color:"black"}}>Group Messaging App </span> </p></h1>
         </div>
 
     <div className="container"
@@ -137,7 +137,7 @@ function ProjectPage(){
     {/* projecct 2 */}
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <h1 style={{background:"yellow"}}><p className="title2 project1" ><span style={{color:"blue"}}>Movie App</span> </p></h1>
+      <h1 style={{background:"pink"}}><p className="title2 project1" ><span style={{color:"black"}}>Movie App</span> </p></h1>
     </div>
 
     <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
@@ -252,7 +252,7 @@ function ProjectPage(){
     {/* project 3 */}
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"yellow"}}><span style={{color:"blue"}}>Signin & Signup with multiple OAuth and password (Google signin, facebook, github)</span> </p>
+      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}>Signin & Signup with multiple OAuth and password (Google signin, facebook, github)</span> </p>
     </div>
 
     <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
@@ -363,7 +363,7 @@ function ProjectPage(){
     {/* projecct 4 */}
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"yellow"}}><span style={{color:"blue"}}> Budget Tracker</span></p>
+      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}> Budget Tracker</span></p>
     </div>
 
     <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
@@ -477,7 +477,7 @@ function ProjectPage(){
 
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"yellow"}}><span style={{color:"blue"}}>Add to Cart and Remove From Cart</span></p>
+      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}>Add to Cart and Remove From Cart</span></p>
     </div>
 
     <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
@@ -561,7 +561,7 @@ function ProjectPage(){
 
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"yellow"}}><span style={{color:"blue"}}>Student Teacher Dashboard </span></p>
+      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}>Student Teacher Dashboard </span></p>
     </div>
 
     <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
