@@ -6,7 +6,7 @@ return(
    
 <div className='card' style={{paddingBottom:"100px"}}>
         
- <div class="container" style={{background:"rgb(206, 206, 234)"}}> 
+ <div class="container" style={{background:"pink"}}> 
         <br/>
     <h4 style={{color:"red"}}><b>EXPERIENCE:</b></h4><br/>
     <div style={{paddingLeft:"30px"}}>
