@@ -56,8 +56,8 @@ const ProfileCard = () => {
                 <Typist.Backspace count={11} delay={1250} />
                 Fullstack Developer
                 <Typist.Backspace count={19} delay={1250} />
-                Cricket Fan
-                <Typist.Backspace count={11} delay={1250} />
+                {/* Cricket Fan
+                <Typist.Backspace count={11} delay={1250} /> */}
                enjoying create things that live on the internet 
               and also love to solve the complex problems.
               </span>

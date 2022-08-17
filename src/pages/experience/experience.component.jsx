@@ -4,11 +4,12 @@ import React from 'react';
 function ExperiencePage (){
 return(
    
-<div className='card'>
+<div className='card' style={{paddingBottom:"100px"}}>
         
- <div class="container"> 
+ <div class="container" style={{background:"rgb(206, 206, 234)"}}> 
         <br/>
     <h4 style={{color:"red"}}><b>EXPERIENCE:</b></h4><br/>
+    <div style={{paddingLeft:"30px"}}>
     <h4><b> Company: TECH MAHINDRA</b></h4>
     
     <h5 class="text-secondary"><b>Senior Associate (Non IT)</b></h5> <br/>
@@ -24,12 +25,13 @@ return(
 
     </p><br/>
 
-    
+    </div>
 
 </div>
 
-<div class="container2"> <br/>
+<div class="container2" style={{marginBottom:"110px", background:"rgb(242, 192, 255)"}}> <br/>
     <h4 style={{color:"red"}}><b>ACHIEVEMENTS IN WORK:</b></h4><br/>
+    <div style={{paddingLeft:"30px"}}>
     <p><b>1• Recognized with a "BRAVO" Award! From Tech Mahindra due to having repeatedly demonstrated the core values of receiving and driving positive change at work.<br/>
 <a href="https://drive.google.com/file/d/1g9ZC_BvGkRN5q7mrz2WrjIvSxXNN91SP/view?usp=sharing" target="blank" className="anchor"><br/>
             <button className="codeBtn" style={{color:"white"}}>Click here to see the certification <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
@@ -42,7 +44,7 @@ return(
             </a>
 </b><br/>
 
-
+</div>
 </div>
 
       

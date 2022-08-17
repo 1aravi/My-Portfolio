@@ -12,11 +12,11 @@ function ProjectPage(){
 
         <div style={{textAlign:"center"}}>
         
-          <h1 style={{background:"pink"}}><p className="title2 project1"><span style={{color:"black"}}>Group Messaging App </span> </p></h1>
+          <h1 style={{background:"pink"}}><p className="title2 project1"><b><span style={{color:"black"}}>Group Messaging App </span> </b></p></h1>
         </div>
 
     <div className="container"
-     data-aos="zoom-in" style={{background:"aqua"}}>
+     data-aos="zoom-in" >
       <div className="row secondDiv">
       <div className="col-lg-6" style={{padding:"10px"}}>
         </div>
@@ -87,15 +87,6 @@ function ProjectPage(){
 
             <div className="pop">
               <div className="prjDiv">
-                <img src="./images/material ui icon.png" alt="icon7" className="prjIcons"/>
-              </div>
-              <div className="softIcon">
-                <p className="smallName">MaterialUi</p>
-              </div>
-            </div>
-
-            <div className="pop">
-              <div className="prjDiv">
                 <img src="./images/express icon.jpg" alt="icon8" className="prjIcons"/>
               </div>
               <div className="softIcon">
@@ -137,10 +128,10 @@ function ProjectPage(){
     {/* projecct 2 */}
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <h1 style={{background:"pink"}}><p className="title2 project1" ><span style={{color:"black"}}>Movie App</span> </p></h1>
+      <h1 style={{background:"pink"}}><p className="title2 project1" ><b><span style={{color:"black"}}>Movie App</span> </b></p></h1>
     </div>
 
-    <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
+    <div className="container" data-aos="zoom-in">
       <div className="row secondDiv">
       <div className="col-lg-6" style={{padding:"10px"}}>
         </div>
@@ -252,10 +243,10 @@ function ProjectPage(){
     {/* project 3 */}
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}>Signin & Signup with multiple OAuth and password (Google signin, facebook, github)</span> </p>
+      <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}>Signin & Signup with multiple OAuth and password (Google signin, facebook, github) </span> </b> </p>
     </div>
 
-    <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
+    <div className="container" data-aos="zoom-in" >
       <div className="row secondDiv">
       <div className="col-lg-6" style={{padding:"10px"}}>
         </div>
@@ -361,12 +352,13 @@ function ProjectPage(){
 
 
     {/* projecct 4 */}
+
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}> Budget Tracker</span></p>
+      <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}> Budget Tracker</span></b></p>
     </div>
 
-    <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
+    <div className="container" data-aos="zoom-in" >
       <div className="row secondDiv">
       <div className="col-lg-6" style={{padding:"10px"}}>
         </div>
@@ -477,10 +469,10 @@ function ProjectPage(){
 
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}>Add to Cart and Remove From Cart</span></p>
+      <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}>Add to Cart and Remove From Cart</span></b></p>
     </div>
 
-    <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
+    <div className="container" data-aos="zoom-in" >
       <div className="row secondDiv">
         <div className="col-lg-6" style={{padding:"10px"}}>
         </div>
@@ -559,12 +551,12 @@ function ProjectPage(){
 
 {/* extra project 6 */}
 
-    <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
+    <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/> 
 
-      <p className="title2 project1" style={{background:"pink"}}><span style={{color:"black"}}>Student Teacher Dashboard </span></p>
+      <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}>Student Teacher Dashboard </span></b></p>
     </div>
 
-    <div className="container" data-aos="zoom-in" style={{background:"aqua"}}>
+    <div className="container" data-aos="zoom-in">
       <div className="row secondDiv">
         <div className="col-lg-6" style={{padding:"10px"}}>
          </div>
@@ -637,7 +629,7 @@ function ProjectPage(){
         
       </div>
     </div>
-    <hr style={{marginTop:"0px"}}/>  
+    <hr style={{marginBottom:"100px"}}/>  
 
 
 
