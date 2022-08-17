@@ -34,7 +34,8 @@ code {
 .container {
   padding: 2px 16px;
   
-  background-color: rgba(157, 134, 118, 0.29);
+  /* background-color: rgba(157, 134, 118, 0.29); */
+  background-color: rgba(123, 151, 151, 0.29); 
 }
 .container2 {
   padding: 2px 16px;
@@ -110,12 +111,14 @@ code {
   border-radius: 0.3rem;
   padding: 7px 15px;
   background-color: rgb(149, 23, 253);
+  /* background-color: rgb(227, 49, 49); */
   color: white;
   transition: all 0.2s linear ;
 }
 
 .codeBtn:hover{
   background-color:rgb(49, 227, 49);
+  /* background-color:rgb(227, 49, 49); */
   transform: scale(1.1);
 }
 

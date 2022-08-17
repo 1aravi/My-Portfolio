@@ -100,7 +100,7 @@ function ProjectPage(){
             <button className="codeBtn" >FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
           </a>
           <a href="https://github.com/1aravi/Group-Messaging-App-Backend" target="blank" className="anchor">
-            <button className="codeBtn">Backend <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
+            <button className="codeBtn">BackEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
           </a>
           <div className="ee">
           <a href = "https://dashing-daifuku-299cc3.netlify.app/" target="blank" className="anchor">
