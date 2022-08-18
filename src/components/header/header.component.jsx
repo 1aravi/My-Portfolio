@@ -22,7 +22,7 @@ const navItems = [
   {
     page: "Resume",
     routeUrl:
-      "https://drive.google.com/file/d/1-7EGpnItja41SVfZeNljo63BldGX7WHs/view?usp=sharing",
+      "https://drive.google.com/file/d/1eFxZ73QCsuHwumuO0ie0x5ByekteCLgZ/view?usp=sharing",
   },
 ];
 

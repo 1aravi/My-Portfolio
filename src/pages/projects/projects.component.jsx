@@ -243,7 +243,7 @@ function ProjectPage(){
     {/* project 3 */}
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
-      <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}>Signin & Signup with multiple OAuth and password (Google signin, facebook, github) </span> </b> </p>
+      <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}> E-commerce web scrapper</span> </b> </p>
     </div>
 
     <div className="container" data-aos="zoom-in" >
@@ -251,7 +251,7 @@ function ProjectPage(){
       <div className="col-lg-6" style={{padding:"10px"}}>
         </div>
         <div className="col-lg-6 projectInfo" style={{padding:" 0px 20px 20px 20px"}}>
-          <p className="para1"><span className="imp">MERN Stack login register system </span>  is a <span className="imp">Web Application</span> with account activation, forgot password, reset password, login with facebook, google and github as well as private and protected routes for authenticated user and users.
+          <p className="para1"><span className="imp">E-commerce web scrapper </span>  is a <span className="imp">Web Application</span> used for electronic items filtering and searching from Amazon and Flipkart. Products are refreshed every 12 hours.
          
           </p>
           <div className="usedIcons">
@@ -331,14 +331,14 @@ function ProjectPage(){
             
           </div>
           <div style={{display:"flex" , marginTop:'15px' , flexWrap:"wrap" , position:"relative"}}>
-            <a href="https://github.com/1aravi/MERN-Auth-frontend" target="blank" className="anchor">
+            <a href="https://github.com/1aravi/e-commerce-web-scrapping-front-end" target="blank" className="anchor">
               <button className="codeBtn">FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
-            <a href="https://github.com/1aravi/MERN-Auth-backend" target="blank" className="anchor">
+            <a href="https://github.com/1aravi/E-commerce-Webscrapping-backend" target="blank" className="anchor">
               <button className="codeBtn">BackEnd<i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
             <div className="ee">
-            <a href = "https://stately-moxie-87f45a.netlify.app/" target="blank" className="anchor">
+            <a href = "https://webscrapper-ecommerce.netlify.app/" target="blank" className="anchor">
             <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
             </a>
             
