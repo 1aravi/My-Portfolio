@@ -125,8 +125,9 @@ function ProjectPage(){
   <hr style={{marginTop:"0px"}}/>
      
      {/* project 2 */}
+     
 
-        <div style={{textAlign:"center"}}>
+        <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
         
           <h1 style={{background:"pink"}}><p className="title2 project1"><b><span style={{color:"black"}}>Group Messaging App </span> </b></p></h1>
         </div>
