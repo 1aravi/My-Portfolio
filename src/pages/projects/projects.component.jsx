@@ -8,7 +8,123 @@ function ProjectPage(){
            <h1><p className="title1"><span style={{color:"red"}} ><b>PROJECTS</b></span></p></h1>
         </div>
 
-     {/* project 1 */}
+{/* project 1 */}
+
+<div style={{textAlign:"center"}}>
+        
+        <h1 style={{background:"pink"}}><p className="title2 project1"><b><span style={{color:"black"}}>Freelancer App </span> </b></p></h1>
+      </div>
+
+  <div className="container"
+   data-aos="zoom-in" >
+    <div className="row secondDiv">
+    <div className="col-lg-6" style={{padding:"10px"}}>
+      </div>
+      <div className="col-lg-6 projectInfo" style={{padding:" 0px 20px 20px 20px"}}>
+     
+        <p className="para1"><span className="imp">Freelancing </span> is a <span className="imp"> Web Application </span>
+        having 
+        all the necessary features like 
+        Add projects, View projects, and Apply for the projects, and see the applicants who are applied of the project <span className="imp"> </span> feature  <span className="imp">  </span>
+          <span className="imp">  </span> , the <span className="imp"> Login  and </span> 
+          <span className="imp"> Register  </span> <span className="imp"> features. </span>  It is useful for Connect with Freelancers based on their skills and profile and the requirements what we have.     </p>
+        <div className="usedIcons">
+
+        <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/html icon.png" alt="icon1" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p  className="smallName">HTML</p>
+            </div>
+          </div>
+
+          <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/css icon.jpg" alt="icon2" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p  className="smallName">CSS</p>
+            </div>
+          </div>
+
+
+          <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/react icon.png" alt="icon3" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p  className="smallName">React</p>
+            </div>
+          </div>
+
+          <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/mongodb icon.png" alt="icon4" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p className="smallName">MongoDB</p>
+            </div>
+          </div>
+
+          <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/node icon.png" alt="icon5" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p className="smallName">NodeJs</p>
+            </div>
+          </div>
+
+          <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/bootstrap icon.png" alt="icon6" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p className="smallName">Bootstrap</p>
+            </div>
+          </div>
+
+          <div className="pop">
+            <div className="prjDiv">
+              <img src="./images/express icon.jpg" alt="icon8" className="prjIcons"/>
+            </div>
+            <div className="softIcon">
+              <p className="smallName">Express</p>
+            </div>
+          </div>
+
+        </div>
+        <div style={{display:"flex" , marginTop:'15px' , flexWrap:"wrap" , position:"relative"}}>
+        <a href="https://github.com/1aravi/FreeLancing-frontend" target="blank" className="anchor">
+          <button className="codeBtn" >FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
+        </a>
+        <a href="https://github.com/1aravi/FreeLancing-Backened" target="blank" className="anchor">
+          <button className="codeBtn">BackEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
+        </a>
+        <div className="ee">
+        <a href = "https://taupe-gumption-d37a4d.netlify.app/" target="blank" className="anchor">
+          <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
+        </a>
+        <div className="credentials">
+          <div>
+            <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+            <p  className="demoCred" style={{color:"tomato"}}>Email: </p>
+            <p  className="demoCred">aravin@gmail.com</p>
+            <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+            <p  className="demoCred"> 12345</p>
+          </div>
+        </div>
+        </div>
+        
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <hr style={{marginTop:"0px"}}/>
+     
+     {/* project 2 */}
 
         <div style={{textAlign:"center"}}>
         
@@ -125,7 +241,7 @@ function ProjectPage(){
     <hr style={{marginTop:"0px"}}/>
 
 
-    {/* projecct 2 */}
+    {/* projecct 3 */}
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
       <h1 style={{background:"pink"}}><p className="title2 project1" ><b><span style={{color:"black"}}>Movie App</span> </b></p></h1>
@@ -240,7 +356,7 @@ function ProjectPage(){
     <hr style={{marginTop:"0px"}}/>
 
 
-    {/* project 3 */}
+    {/* project 4 */}
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
       <p className="title2 project1" style={{background:"pink"}}><b><span style={{color:"black"}}> E-commerce web scrapper</span> </b> </p>
@@ -351,7 +467,7 @@ function ProjectPage(){
     <hr style={{marginTop:"0px"}}/>
 
 
-    {/* projecct 4 */}
+    {/* projecct 5 */}
 
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
@@ -465,7 +581,7 @@ function ProjectPage(){
 
    
 
-{/* extra project 5 */}
+{/* extra project 6 */}
 
 <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/>
 
@@ -549,7 +665,7 @@ function ProjectPage(){
     </div>
     <hr style={{marginTop:"0px"}}/>  
 
-{/* extra project 6 */}
+{/* extra project 7 */}
 
     <div style={{textAlign:"center"}}><hr style={{marginTop:"40px"}}/> 
 
